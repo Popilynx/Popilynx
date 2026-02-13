@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="center">👋 Olá, eu sou Renato</h1>
 
-<!--
-**Popilynx/Popilynx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Desenvolvedor Full Stack focado em Java + React
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Minhas Skills
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,react,ts,node,postgres,docker" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Popilynx&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Popilynx&layout=compact&theme=tokyonight)
