@@ -47,24 +47,6 @@
 | 🔗 [DevAgendas](https://github.com/Popilynx/DevAgendas) | Full Stack | Aplicação para organização e gerenciamento de tarefas com foco em produtividade |
 | 🔗 [Portfolio](https://portfolio-renato-beta.vercel.app/) | Next.js + Vercel | Website profissional focado em performance e UI moderna |
 
-*(Você pode substituir pelos repositórios específicos depois para ficar ainda mais forte.)*
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Popilynx&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Popilynx&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Popilynx&theme=github-dark&hide_border=true" />
-</p>
 
 ---
 
